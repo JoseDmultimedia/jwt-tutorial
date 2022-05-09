@@ -1,0 +1,10 @@
+{
+  "name": "mysql",
+  "connector": "mysql",
+  "url": "",
+  "host": "35.227.112.152",
+  "port": 3306,
+  "user": "fabian.caicedo",
+  "password": "654321",
+  "database": "bduac"
+}
